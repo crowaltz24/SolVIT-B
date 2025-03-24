@@ -1,7 +1,7 @@
 # NoQ
 ## Dynamic Queue System
 
-## Deployment: www.noq-hawks.vercel.app
+## Deployment: https://noq-hawks.vercel.app
 
 The NoQ Dynamic Queue System allows for a wide way of virtual queues to be implemented.
 ## User App:
